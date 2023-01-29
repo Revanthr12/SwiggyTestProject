@@ -13,8 +13,8 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 public class ReadExcel {	
 	public ArrayList<String> Readname() {
 		
-		String excelname1[] = new String[7];
-		  String excelprice1[] = new String[7];
+		String excelname1[] = new String[10];
+		  String excelprice1[] = new String[10];
 		  
 	      ArrayList<String> excelname = new ArrayList<String>();
 		String Inpath = "/Users/reravich/Documents/Revanth/Mydata/Book1.xlsx";		
